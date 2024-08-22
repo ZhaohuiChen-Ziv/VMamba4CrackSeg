@@ -22,8 +22,9 @@
 </div>
 
 ## Citations
-
-<div style="overflow-y: scroll; height: 200px;">
+<details>
+<summary>Click to see citations</summary>
+<div style="overflow-y: scroll; height: 100px;">
 <pre>
 @article{
 title={U-net: convolutional networks for biomedical image segmentation},
