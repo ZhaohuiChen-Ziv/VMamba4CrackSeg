@@ -22,9 +22,10 @@
 </div>
 
 ## Citations
-<div style="width: 100%; overflow: auto;">
+
+<div style="overflow-y: scroll; height: 200px;">
 <pre>
- @article{
+@article{
 title={U-net: convolutional networks for biomedical image segmentation},
 author={O. Ronneberger, P. Fischer, T. Brox},
 conference={Medical Image Computing and Computer-Assisted Intervention–18th International Conference},
