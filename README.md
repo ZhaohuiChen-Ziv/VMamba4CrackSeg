@@ -28,31 +28,31 @@
 <pre>
 @article{
 title={U-net: convolutional networks for biomedical image segmentation},
-author={O. Ronneberger, P. Fischer, T. Brox},
+author={Olaf Ronneberger, Philipp Fischer, Thomas Brox},
 conference={Medical Image Computing and Computer-Assisted Intervention–18th International Conference},
 year={2015}
 }
 @article{
 title={Linknet: Exploiting encoder representations for efficient semantic segmentation},
-author={A. Chaurasia, E. Culurciello},
+author={Abhishek Chaurasia, Eugenio Culurciello},
 conference={IEEE visual communications and image processing},
 year={2017}
 }
 @article{
 title={Efficientnet: rethinking model scaling for convolutional neural networks},
-author={M. Tan, Q. Le},
+author={Mingxing Tan, Quoc V. Le},
 conference={Proceedings of Machine Learning Research},
 year={2019}
 }
 @article{
 title={Swin-unet: Unet-like pure transformer for medical image segmentation},
-author={H. Cao, Y. Wang, J. Chen, D. Jiang, X. Zhang, Q. Tian, M. Wang},
+author={Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang},
 conference={European Conference on Computer Vision},
 year={2022}
 }
 @article{
 title={SegFormer: simple and efficient design for semantic segmentation with transformers},
-author={E. Xie, W. Wang, Z. Yu, A. Anandkumar, J.M. Alvarez, P. Luo},
+author={Enze Xie, Wenhai Wang, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, Ping Luo},
 conference={Advances in Neural Information Processing Systems},
 year={2021}
 } 
@@ -64,7 +64,7 @@ year={2021}
 }
 @article{
 title={A crack-segmentation algorithm fusing transformers and convolutional neural networks for complex detection scenarios},
-author={C. Xiang, J. Guo, R. Cao, L. Deng},
+author={Chao Xiang, Jingjing Guo, Ran Cao, Lu Deng},
 journal={Automation in Construction},
 year={2023}
 }
@@ -76,7 +76,7 @@ year={2024}
 }
 @article{
 title={Vm-unet: Vision mamba unet for medical image segmentation},
-author={J. Ruan, S. Xiang},
+author={Jiacheng Ruan, Suncheng Xiang},
 journal={arXiv preprint arXiv:2402.02491},
 year={2024}
 }
