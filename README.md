@@ -1,7 +1,9 @@
 <h1 align="center" style="border-bottom: none;"> Vision Mamba-based autonomous crack segmentation on structural surfaces </h1>
  
-- This is the implementation for the representative CNN, Transformer and Mamba-based crack segmentation models in the publication of *"Vision Mamba-based autonomous crack segmentation on structural surfaces"*. 
+- This is the implementation for the publication of *"Vision Mamba-based autonomous crack segmentation on structural surfaces"*. 
 - (https://arxiv.org/abs/2406.16518).
+- The whole framework is run on Linux Ubuntu 22.04 systerm, based on python 3.10.12.
+- Please install the environment in the "requirement.txt" before running the code.
 
 - ## The code will be released gradually. ##
 - CNN-based: UNet & LinkNet with the EfficientNet-B7 backbone (UNet-EB7 & LinkNet-EB7); 
