@@ -2,7 +2,7 @@
  
 - This is the implementation for the publication of *"Vision Mamba-based autonomous crack segmentation on structural surfaces"*. 
 - (https://arxiv.org/abs/2406.16518).
-- The whole framework is run on Linux Ubuntu 22.04 systerm, based on python 3.10.12.
+- The whole framework is run on Linux Ubuntu 22.04 system, based on python 3.10.12.
 - Please install the environment in the "requirement.txt" before running the code.
 
 - ## The code will be released gradually. ##
